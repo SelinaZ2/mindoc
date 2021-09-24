@@ -231,6 +231,6 @@ dingtalk_qr_key="${MINDOC_DINGTALK_QRKEY}"
 dingtalk_qr_secret="${MINDOC_DINGTALK_QRSECRET}"
 
 # i18n config
-default_lang="zh-cn"
+default_lang="us-en"
 
 
